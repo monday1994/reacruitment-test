@@ -1,0 +1,1 @@
+export const ENTITLEMENTS_FETCHING_REQUEST = 'entitlementsFetchingRequest';
